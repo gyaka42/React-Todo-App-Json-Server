@@ -1,22 +1,3 @@
 {
-  "todos": [
-    {
-      "id": 1,
-      "text": "todo1",
-      "date": "19-01-2023",
-      "isDone": true
-    },
-    {
-      "id": "1674174248615",
-      "text": "todo2",
-      "date": "2023-01-20T00:24:08.615Z",
-      "isDone": false
-    },
-    {
-      "id": "1674174251981",
-      "text": "todo3",
-      "date": "2023-01-20T00:24:11.981Z",
-      "isDone": false
-    }
-  ]
+  "todos": []
 }

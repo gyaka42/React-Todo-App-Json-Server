@@ -1,0 +1,33 @@
+.ErrorModelContainer{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100vh;
+    height: 100vh;
+    background-color: rgba(0, 0, 0, 0.3);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 1000;
+}
+
+.ErrorModelTextContainer{
+    width: 70%;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.ErrorModelTextContainer h1{
+    text-align: center;
+}
+
+.ErrorModelTextContainer p{
+    text-align: center;
+}
+
+.ErrorModelBtnContainer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
